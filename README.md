@@ -15,7 +15,7 @@ Live Demo: [Currency Converter Demo](https://glittering-sunshine-ab4d4d.netlify.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/github18122021/react_currency_converter.git
+   git clone https://github.com/github18122021/Currency_Converter.git
    ```
 
 2. Navigate into the project directory:
